@@ -1,0 +1,2 @@
+class ProductVarient < ApplicationRecord
+end
